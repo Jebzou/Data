@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030159",
+  "version": "21030160",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -1434,7 +1434,8 @@
     "New Mass-Produced Aircraft Carrier Princess - Damaged": "2225",
     "Harusame Kai Ni": "975",
     "Inagi Kai Ni": "979",
-    "Hatsuzuki Kai Ni": "968"
+    "Hatsuzuki Kai Ni": "968",
+    "New Ship JP": "New Ship EN"
   },
   "class": {
     "綾波型": "Ayanami Class",
@@ -1567,7 +1568,8 @@
     "改氷川丸級": "Hikawa Maru",
     "巡潜乙型改一": "Junsen Type B Kai Ichi",
     "二等輸送艦": "2nd Class Transporter",
-    "string": "string"
+    "string": "string",
+    "New class": "New Class"
   },
   "suffix": {
     "改": "Kai",

@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030159",
+  "version": "21030160",
   "ship": {
     "長門": "나가토",
     "陸奥": "무츠",
@@ -1434,7 +1434,8 @@
     "New Mass-Produced Aircraft Carrier Princess - Damaged": "2225",
     "Harusame Kai Ni": "975",
     "Inagi Kai Ni": "979",
-    "Hatsuzuki Kai Ni": "968"
+    "Hatsuzuki Kai Ni": "968",
+    "New Ship JP": "New Ship EN"
   },
   "class": {
     "綾波型": "아야나미형",
@@ -1567,7 +1568,8 @@
     "改氷川丸級": "改 히카와마루급",
     "巡潜乙型改一": "순잠 을형 改1",
     "二等輸送艦": "이등수송함",
-    "string": "string"
+    "string": "string",
+    "New class": "New Class"
   },
   "suffix": {
     "改": "改",

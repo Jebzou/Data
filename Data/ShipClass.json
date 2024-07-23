@@ -772,5 +772,11 @@
     "ApiId": 120,
     "NameEnglish": "No.101 Class",
     "NameJapanese": "第百一号型"
+  },
+  {
+    "Id": 1613,
+    "ApiId": 999,
+    "NameEnglish": "New Class",
+    "NameJapanese": "New class"
   }
 ]
