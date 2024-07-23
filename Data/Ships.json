@@ -13507,5 +13507,14 @@
     "ShipClassId": 1515,
     "ShipClassApiId": 54,
     "IsFriendly": true
+  },
+  {
+    "Id": 1682,
+    "NameEN": "New ship EN",
+    "NameJP": "New ship JP",
+    "ApiId": 888,
+    "ShipClassId": 1613,
+    "ShipClassApiId": 999,
+    "IsFriendly": true
   }
 ]
