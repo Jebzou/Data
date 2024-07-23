@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030155",
+  "version": "21030156",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -468,7 +468,9 @@
     "環礁空母泊地棲姫": "Atoll Aircraft Carrier Anchorage Princess",
     "深海伊号水姫": "Abyssal I-go Water Princess",
     "伊41": "I-41",
-    "新量産空母棲姫": "New Mass-Produced Aircraft Carrier Princess"
+    "新量産空母棲姫": "New Mass-Produced Aircraft Carrier Princess",
+    "f": "s",
+    "ds": "d"
   },
   "class": {
     "綾波型": "Ayanami Class",
@@ -600,7 +602,8 @@
     "Nevada級": "Nevada CLass",
     "改氷川丸級": "Hikawa Maru",
     "巡潜乙型改一": "Junsen Type B Kai Ichi",
-    "二等輸送艦": "2nd Class Transporter"
+    "二等輸送艦": "2nd Class Transporter",
+    "string": "string"
   },
   "suffix": {
     "改": "Kai",
