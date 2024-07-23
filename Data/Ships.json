@@ -5,6 +5,7 @@
     "NameJP": "ds",
     "ApiId": 2,
     "ShipClassId": null,
+    "ShipClassApiId": null,
     "IsFriendly": true
   },
   {
@@ -13,6 +14,7 @@
     "NameJP": "f",
     "ApiId": 0,
     "ShipClassId": 1,
+    "ShipClassApiId": 3,
     "IsFriendly": true
   },
   {
@@ -21,6 +23,7 @@
     "NameJP": "string",
     "ApiId": 0,
     "ShipClassId": 1,
+    "ShipClassApiId": 3,
     "IsFriendly": true
   }
 ]
