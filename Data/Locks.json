@@ -1,9 +1,7 @@
 ﻿{
   "Locks": [
     {
-      "ToolsId": 2,
       "Id": 2,
-      "EventId": 5,
       "A": 3,
       "R": 4,
       "G": 2,
@@ -11,9 +9,7 @@
       "Name": "ffdfds"
     },
     {
-      "ToolsId": 1,
       "Id": 6,
-      "EventId": 5,
       "A": 1,
       "R": 2,
       "G": 3,
@@ -23,9 +19,6 @@
   ],
   "Phases": [
     {
-      "Id": 1,
-      "SortId": 2,
-      "EventId": 5,
       "LockGroups": [
         1,
         4
@@ -33,9 +26,6 @@
       "Name": "78fsdfds"
     },
     {
-      "Id": 2,
-      "SortId": 3,
-      "EventId": 5,
       "LockGroups": [
         1,
         4,
