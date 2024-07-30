@@ -450,10 +450,7 @@
     "eq_id": 6,
     "improvement": [
       {
-        "convert": {
-          "id_after": 90,
-          "lvl_after": 0
-        },
+        "convert": null,
         "helpers": [
           {
             "ship_ids": [
@@ -481,6 +478,14 @@
               4,
               5,
               6
+            ]
+          },
+          {
+            "ship_ids": [
+              52
+            ],
+            "days": [
+              1
             ]
           }
         ],
@@ -526,12 +531,7 @@
         }
       }
     ],
-    "convert_to": [
-      {
-        "id_after": 90,
-        "lvl_after": 0
-      }
-    ],
+    "convert_to": [],
     "upgrade_for": [
       50,
       123,
