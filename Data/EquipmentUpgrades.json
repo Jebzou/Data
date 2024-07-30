@@ -892,7 +892,8 @@
       276,
       281,
       365,
-      385
+      385,
+      533
     ]
   },
   {
@@ -27573,13 +27574,13 @@
           "steel": 3,
           "baux": 4,
           "p1": {
-            "devmats": 9,
-            "devmats_sli": 10,
-            "screws": 11,
-            "screws_sli": 12,
+            "devmats": 5,
+            "devmats_sli": 6,
+            "screws": 7,
+            "screws_sli": 8,
             "equips": [
               {
-                "id": 3,
+                "id": 9,
                 "eq_count": 2
               }
             ],
