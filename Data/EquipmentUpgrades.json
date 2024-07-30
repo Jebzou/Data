@@ -35,9 +35,9 @@
           "baux": 0,
           "p1": {
             "devmats": 2,
-            "devmats_sli": 2,
-            "screws": 1,
-            "screws_sli": 2,
+            "devmats_sli": 20,
+            "screws": 10,
+            "screws_sli": 20,
             "equips": [
               {
                 "id": 1,
@@ -107,7 +107,12 @@
             "devmats_sli": 2,
             "screws": 1,
             "screws_sli": 2,
-            "equips": [],
+            "equips": [
+              {
+                "id": 7,
+                "eq_count": 0
+              }
+            ],
             "consumable": []
           },
           "p2": {
@@ -614,6 +619,7 @@
       }
     ],
     "upgrade_for": [
+      2,
       76,
       103,
       104,
@@ -10223,8 +10229,7 @@
       122,
       294,
       296,
-      464,
-      533
+      464
     ]
   },
   {
@@ -27558,21 +27563,20 @@
             "days": [
               5,
               6,
-              0,
               4
             ]
           }
         ],
         "costs": {
-          "fuel": 20,
-          "ammo": 90,
-          "steel": 190,
-          "baux": 80,
+          "fuel": 1,
+          "ammo": 2,
+          "steel": 3,
+          "baux": 4,
           "p1": {
-            "devmats": 7,
-            "devmats_sli": 8,
-            "screws": 4,
-            "screws_sli": 5,
+            "devmats": 9,
+            "devmats_sli": 10,
+            "screws": 11,
+            "screws_sli": 12,
             "equips": [
               {
                 "id": 3,
@@ -27582,14 +27586,14 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 8,
+            "devmats": 9,
             "devmats_sli": 10,
-            "screws": 5,
-            "screws_sli": 8,
+            "screws": 11,
+            "screws_sli": 12,
             "equips": [
               {
-                "id": 121,
-                "eq_count": 1
+                "id": 3,
+                "eq_count": 2
               }
             ],
             "consumable": []
