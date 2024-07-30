@@ -205,8 +205,8 @@
             "screws_sli": 3,
             "equips": [
               {
-                "id": 3,
-                "eq_count": 1
+                "id": 8,
+                "eq_count": 20
               }
             ],
             "consumable": []
@@ -739,6 +739,7 @@
       }
     ],
     "upgrade_for": [
+      3,
       76,
       103,
       105,
