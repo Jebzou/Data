@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030163",
+  "version": "21030164",
   "ship": {
     "長門": "나가토",
     "陸奥": "무츠",
@@ -1436,7 +1436,9 @@
     "Inagi Kai Ni": "979",
     "Hatsuzuki Kai Ni": "968",
     "New Ship JP": "New Ship EN",
-    "New ship JP": "New ship EN"
+    "New ship JP": "New ship EN",
+    "飛行場夏姫": "Airfield Summer Princess",
+    "軽巡仏棲姫": "French Light Cruiser Princess"
   },
   "class": {
     "綾波型": "아야나미형",
@@ -1611,7 +1613,8 @@
     "(哨戒機配備)": "초계기배치",
     "戦": "전",
     "丸": "마루",
-    "IV": "IV"
+    "IV": "IV",
+    "休日mode": "Holiday Mode"
   },
   "stype": {
     "海防艦": "해방함",
