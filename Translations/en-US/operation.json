@@ -1,5 +1,5 @@
 ﻿{
-  "version": "20071541",
+  "version": "20071542",
   "map": {
     "南西諸島近海": "Adjacent Seas of Southwest Islands",
     "バシー海峡": "Bashi Strait",
@@ -119,7 +119,11 @@
     "マリアナ諸島/ウルシー環礁沖": "Off the coast of Mariana Islands/Ulithi Atoll",
     "#E4": "#E4",
     "2024冬イベ": "Spring 2024 Event",
-    "サイパン沖/マーシャル諸島沖正面": "Off the coast of Saipan / Off the coast of the Marshall Islands"
+    "サイパン沖/マーシャル諸島沖正面": "Off the coast of Saipan / Off the coast of the Marshall Islands",
+    "ケルト海/イギリス海峡": "Celtic Sea / English Channel",
+    "ジブラルタル/アルボラン海": "Gibraltar / Alboran Sea",
+    "北大西洋/フリータウン/ダカール": "North Atlantic / Freetown / Dakar",
+    "Operation Menace": "Operation Menace"
   },
   "fleet": {
     "渦潮": "Whirlpool",
