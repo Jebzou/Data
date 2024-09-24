@@ -1,12 +1,5 @@
 ﻿{
-  "version": "21030445",
-  "101": {
-    "code": "A1",
-    "name_jp": "はじめての「編成」！",
-    "name": "First Formation",
-    "desc_jp": "２隻以上の艦で構成される「艦隊」を編成せよ！",
-    "desc": "Have 2 ships in your main fleet."
-  },
+  "version": "21030446",
   "102": {
     "code": "A2",
     "name_jp": "「駆逐隊」を編成せよ！",

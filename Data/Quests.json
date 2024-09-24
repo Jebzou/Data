@@ -8,8 +8,8 @@
     "desc_jp": "２隻以上の艦で構成される「艦隊」を編成せよ！",
     "desc_en": "Have 2 ships in your main fleet.",
     "added_update_id": null,
-    "removed_update_id": null,
-    "season_id": null,
+    "removed_update_id": 20,
+    "season_id": 5,
     "tracker": ""
   },
   {
