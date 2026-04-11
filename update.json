@@ -11,9 +11,10 @@
   "FitBonuses": 44,
   "EquipmentUpgrades": 554,
   "kancolle_mt": "2025/10/29 11:00:00",
-  "event_state": 3,
+  "event_state": 0,
   "MaintInfoLink": "https://x.com/KanColle_STAFF/status/1980843279429300483",
   "MaintStart": "2025/10/29 11:00:00",
   "MaintEnd": "2025/10/29 22:30:00",
-  "MaintEventState": 1
+  "MaintEventState": 0,
+  "QuestsMetadata": 0
 }

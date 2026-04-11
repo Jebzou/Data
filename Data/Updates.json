@@ -729,11 +729,33 @@
     "id": 79,
     "start_date": "2025-10-29T00:00:00",
     "start_time": "11:00:00",
-    "end_time": "22:30:00",
+    "end_time": "1.05:50:00",
     "name": "Fall 2025 Event MO Start",
     "description": "",
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1980843279429300483",
+    "maint_end_tweet": "https://x.com/KanColle_STAFF/status/1983623343573233964"
+  },
+  {
+    "id": 80,
+    "start_date": "2025-11-05T00:00:00",
+    "start_time": "14:00:00",
+    "end_time": "17:00:00",
+    "name": "Pumpkin 2025 End",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1983172945125224591",
+    "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1985629066142367787 "
+  },
+  {
+    "id": 81,
+    "start_date": "2025-11-10T00:00:00",
+    "start_time": "00:00:00",
+    "end_time": null,
+    "name": "Fall 2025 E4 & Saury ",
+    "description": "",
+    "live_update": true,
+    "maint_start_tweet": "",
     "maint_end_tweet": ""
   }
 ]
