@@ -2113,7 +2113,8 @@
     "id": 2180,
     "api_id": 340,
     "name_jp": "152mm/55 三連装速射砲",
-    "name_en": "152mm/55 Triple Rapid Fire Gun Mount"
+    "name_en": "152mm/55 Triple Rapid Fire Gun Mount",
+    "development": true
   },
   {
     "id": 2181,
@@ -2210,7 +2211,8 @@
     "id": 2196,
     "api_id": 356,
     "name_jp": "8inch三連装砲 Mk.9",
-    "name_en": "8inch Triple Gun Mount Mk.9"
+    "name_en": "8inch Triple Gun Mount Mk.9",
+    "development": true
   },
   {
     "id": 2197,
@@ -4176,7 +4178,8 @@
     "id": 2523,
     "api_id": 536,
     "name_jp": "15.2cm三連装主砲",
-    "name_en": "15.2cm Triple Main Gun"
+    "name_en": "15.2cm Triple Main Gun",
+    "development": true
   },
   {
     "id": 2524,

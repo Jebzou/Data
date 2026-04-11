@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030294",
+  "version": "21030304",
   "equiptype": {
     "小口径主砲": "Small-caliber Gun",
     "中口径主砲": "Medium-caliber Gun",
@@ -767,6 +767,20 @@
     "零式艦戦62型改(熟練/夜間爆戦)": "Type 0 Fighter Model 62 Kai (Skilled/Night Fighter-bomber)",
     "Ju87 D-4(Fliegerass)": "Ju87 D-4(Fliegerass)",
     "Bf109 T-3(G)": "Bf109 T-3(G)",
-    "Do 217 E-5+TV誘導型 Hs293D": "Do 217 E-5 + TV-guided Hs293D"
+    "Do 217 E-5+TV誘導型 Hs293D": "Do 217 E-5 + TV-guided Hs293D",
+    "Ho229": "Ho229",
+    "21cm単装主砲": "21cm Single Main Gun Mount",
+    "15cm単装副砲": "15cm Single Secondary Gun Mount",
+    "10.2cm三連装副砲": "10.2cm Triple Secondary Gun Mount",
+    "Sea Gladiator": "Sea Gladiator",
+    "深海8.25inch単装主砲": "Abyssal 8.25inch Single Main Gun Mount",
+    "深海6inch副砲群": "Abyssal 6inch Secondary Gun Mount Battery",
+    "深海4inch三連装副砲": "Abyssal 4inch Triple Secondary Gun Mount",
+    "強風改二(熟練)": "Kyoufuu Kai Ni (Skilled)",
+    "震電改二(艦戦型改二)": "Shinden Kai Ni (Carrier Fighter Kai Ni)",
+    "三式爆雷投射機改": "Type 3 Depth Charge Projector Kai",
+    "震電改三(試製 噴式震電)": "Shinden Kai 3 (Prototype Jet Shinden)",
+    "流星改(友永隊)": "Ryuusei Kai (Tomonaga Squadron)",
+    "53cm連装魚雷改(酸素魚雷)": "53cm Twin Torpedo Mount Kai (Oxygen)"
   }
 }

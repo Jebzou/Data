@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030187",
+  "version": "21030199",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -483,7 +483,16 @@
     "重巡新棲姫": "New Heavy Cruiser Princess",
     "杉": "Sugi",
     "しまね丸": "Shimane Maru",
-    "飛行場棲姫": "Occupied Airfield Princess"
+    "飛行場棲姫": "Occupied Airfield Princess",
+    "軽巡ム級": "Light Cruiser Mu-Class",
+    "フィヨルド棲姫": "Fjord Princesses",
+    "フィヨルド単騎": "Solitary Fjord Princess",
+    "深海上陸小鬼": "Abyssal Landing Imp",
+    "巡洋戦艦水姫": "Battlecruiser Water Princess",
+    "樫": "Kashi",
+    "野埼": "Nosaki",
+    "南海": "Nankai",
+    "深海空母蜂姫": "Abyssal Aircraft Carrier Wasp Princess"
   },
   "class": {
     "綾波型": "Ayanami Class",
@@ -617,7 +626,12 @@
     "巡潜乙型改一": "Junsen Type B Kai Ichi",
     "二等輸送艦": "2nd Class Transporter",
     "La Galissonnière級": "La Galissonnière Class",
-    "Mogador級": "Mogador Class"
+    "Mogador級": "Mogador Class",
+    "Norge級": "Norge Class",
+    "Courageous級": "Courageous Class",
+    "Glorious級": "Glorious Class",
+    "野埼型": "Nosaki Class",
+    "Thonburi級": "Thonburi Class"
   },
   "suffix": {
     "改": "Kai",

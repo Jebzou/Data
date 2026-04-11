@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030186",
+  "version": "21030198",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -478,12 +478,20 @@
     "榧": "Kaya",
     "大泊": "Ootomari",
     "駆逐ラ級": "DD Classe-Ra",
-    "潜水鰆水鬼": "Demonio Acuático Submarino",
+    "潜水鰆水鬼": "Demonio Acuático Submarino tipo Arenque",
     "条約外巡洋艦水姫": "Fuera del Tratado Princesa Demonio Acuático Cruzero",
     "重巡新棲姫": "New Heavy Cruiser Princess",
     "杉": "Sugi",
     "しまね丸": "Shimane Maru",
-    "飛行場棲姫": "Occupied Airfield Princess"
+    "飛行場棲姫": "Occupied Airfield Princess",
+    "軽巡ム級": "Crucero Ligero Classe-Mu",
+    "フィヨルド棲姫": "Princesa del Fiordo",
+    "フィヨルド単騎": "Princesa del Fiorde Solitario",
+    "深海上陸小鬼": "Diablillo Abisal de Desembarque",
+    "巡洋戦艦水姫": "Princesa Crucero de Batalla",
+    "樫": "Kashi",
+    "野埼": "Nosaki",
+    "南海": "Nankai"
   },
   "class": {
     "綾波型": "Clase Ayanami",
@@ -617,7 +625,12 @@
     "巡潜乙型改一": "Junsen Tipo B Kai Ichi",
     "二等輸送艦": "2ª Clase Transporte",
     "La Galissonnière級": "Clase La Galissonnière ",
-    "Mogador級": "Clase Mogador "
+    "Mogador級": "Clase Mogador ",
+    "Norge級": "Norge Class",
+    "Courageous級": "Courageous Class",
+    "Glorious級": "Glorious Class",
+    "野埼型": "Nosaki Class",
+    "Thonburi級": "Thonburi Class"
   },
   "suffix": {
     "改": "Kai",
@@ -660,8 +673,8 @@
     "丸": "Maru",
     "IV": "IV",
     "休日mode": "Modo Festivo",
-    "(揚陸中)": "(Landing)",
-    "(初期型)": "(Initial Model)"
+    "(揚陸中)": "(Desenbarque)",
+    "(初期型)": "(Modelo Inicial)"
   },
   "stype": {
     "海防艦": "DE",
